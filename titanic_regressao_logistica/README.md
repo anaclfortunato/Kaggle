@@ -6,7 +6,7 @@ Na plataforma Kaggle foi disponibilizado um conjunto de dados de [treino](https:
 baseado nas informações dessas bases que preveja os sobreviventes do naufrágio do Titanic. 
 
 Para essa previsão, foi feita análise exploratória e tratamento dos dados até a construção de modelo de Regressão Linear em linguagem Python no
-notebook disponível [aqui](https://github.com/anaclfortunato/Kaggle/blob/main/titanic_regressao_logistica/notebook_titanic.ipynb). 
+Jupyter Notebook disponível [aqui](https://github.com/anaclfortunato/Kaggle/blob/main/titanic_regressao_logistica/notebook_titanic.ipynb). 
 
 O resultado desse modelo gera um arquivo de [submissão](https://github.com/anaclfortunato/Kaggle/blob/main/titanic_regressao_logistica/submission_lr.csv) a ser usado na competição, ele é uma tabela contendo ID e classificação de sobrevivente (1) ou não sobrevivente (0).
 
