@@ -1,6 +1,6 @@
 # ![image](https://user-images.githubusercontent.com/131414411/233741485-4643d7cf-47b8-4e96-8c58-0f04934e71ce.png) Competição Kaggle: Titanic: Machine Learning from Disaster 
 
-`Disponível no Kaggle em: https://www.kaggle.com/competitions/titanic`
+`Pode ser acessado no Kaggle em:` https://www.kaggle.com/competitions/titanic`
 
 Na plataforma Kaggle foi disponibilizado um conjunto de dados de [treino](https://github.com/anaclfortunato/Kaggle/blob/main/titanic_regressao_logistica/train.csv) e [teste](https://github.com/anaclfortunato/Kaggle/blob/main/titanic_regressao_logistica/test.csv) para construir um modelo de machine learning 
 baseado nas informações dessas bases que preveja os sobreviventes do naufrágio do Titanic. 
