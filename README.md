@@ -1,11 +1,11 @@
-# Kaggle
+![image](https://user-images.githubusercontent.com/131414411/233742094-3fc388fd-df62-431b-94c4-5c8c904b6be2.png)
 
-Criação de notebooks a partir de competições e datasets disponíveis no Kaggle, contendo análise exploratória, manipualação 
-dos dados e uso de diferentes algoritmos de machine learning. 
+Criação de notebooks a partir de competições e datasets disponíveis no Kaggle, contendo análise exploratória, manipualação dos dados e uso de 
+diferentes algoritmos de machine learning. 
 
 Notebooks também disponíveis diretamente no [Kaggle](https://www.kaggle.com/anaalucca/code). 
 
-### Notebooks 
+## Notebooks 
 
 •  `Titanic: Machine Learning from Disaster` com uso do algoritmo de Regressão Logística - [acesse]()
 
