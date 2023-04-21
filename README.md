@@ -7,12 +7,12 @@ Notebooks também disponíveis diretamente no [Kaggle](https://www.kaggle.com/an
 
 ## Notebooks 
 
-•  `Titanic: Machine Learning from Disaster` com uso do algoritmo de Regressão Logística - [acesse]()
+•  `Titanic: Machine Learning from Disaster` com uso do algoritmo de Regressão Logística;
 
-•  `Heart Disease Dataset` com uso do algoritmo de Regressão Logística - [acesse]()
+•  `Heart Disease Dataset` com uso do algoritmo de Regressão Logística;
 
-•  `House Prices - Advanced Regression Techniques` com uso do algortimo de Árvore de Decisão - [acesse]()
+•  `House Prices - Advanced Regression Techniques` com uso do algortimo de Árvore de Decisão;
 
-•  `Boston Housing` com uso do algoritmo de Regressão Linear - [acesse]()
+•  `Boston Housing` com uso do algoritmo de Regressão Linear;
 
-•  `Wine Dataset for Clustering` com uso do algoritmo de clusterização K-Means - [acesse]()
+•  `Wine Dataset for Clustering` com uso do algoritmo de clusterização K-Means.
