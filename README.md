@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/131414411/233742435-beb68531-511d-4cc4-a61a-f4a2d06f0149.png)
+![image](https://user-images.githubusercontent.com/131414411/233742586-83a477d5-0674-4b32-b5a6-cbf728abe47a.png)
 
 Criação de notebooks a partir de competições e datasets disponíveis no Kaggle, contendo análise exploratória, manipualação dos dados e uso de 
 diferentes algoritmos de machine learning. 
