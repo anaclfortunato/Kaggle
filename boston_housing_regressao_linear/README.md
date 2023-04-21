@@ -1,4 +1,4 @@
-# Dataset Kaggle: Boston Housing
+# Dataset Kaggle: Boston Housing ![image](https://user-images.githubusercontent.com/131414411/233743245-ebd6b50f-44d6-4bd4-ae34-4293bb565f77.png)
 
 Disponível em: https://www.kaggle.com/datasets/schirmerchad/bostonhoustingmlnd
 
@@ -6,4 +6,4 @@ Conjunto de dados ('housing.csv') com 3 características e uma variável respost
 Foi constrúido a partir desse dataset, por meio da linguagem Python no Jupyter Notebook ('bostonhousing_regressao_linear.ipynb'), a análise exploratória, 
 tratamento dos dados e um modelo de machine learning baseado no algoritmo de Regressão Linear para fazer novamente essa previsão dos valores residenciais. 
 
-Notebook disponível diretamente no Kaggle em: https://www.kaggle.com/code/anaalucca/bostonhousing-com-regressao-linear
+Notebook disponível diretamente no meu perfil do Kaggle em: https://www.kaggle.com/code/anaalucca/bostonhousing-com-regressao-linear
