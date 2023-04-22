@@ -7,7 +7,7 @@ em Ames, Iowa, deve ser feito um modelo de machine learning que preveja o preço
 no arquivo [descricao_dados.txt](https://github.com/anaclfortunato/Kaggle/blob/main/house_prices_arvore_decisao/descricao_dados.txt). 
 
 Por meio da linguagem Python em um [Jupyter Notebook](https://github.com/anaclfortunato/Kaggle/blob/main/house_prices_arvore_decisao/notebook_house_prices.ipynb) foi feita análise exploratória e tratamento dos dados. Para construção do modelo foi utilizado o 
-algoritmo Decision Tree Regressor e o resultado do modelo ([submission.csv'](https://github.com/anaclfortunato/Kaggle/blob/main/house_prices_arvore_decisao/submission.csv)) contendo ID e valor das casas foi submetido a competição. 
+algoritmo Decision Tree Regressor e o resultado do modelo (['submission.csv'](https://github.com/anaclfortunato/Kaggle/blob/main/house_prices_arvore_decisao/submission.csv)) contendo ID e valor das casas foi submetido a competição. 
 
 Pode ser encontrado o notebook e submissão também diretamente no [Kaggle](https://www.kaggle.com/code/anaalucca/house-prices-decision-tree-regressor).
 
