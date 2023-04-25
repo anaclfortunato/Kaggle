@@ -6,3 +6,5 @@ Conjunto de dados [heart.csv](https://github.com/anaclfortunato/Kaggle/blob/main
 linguagem Python um [Jupyter Notebook](https://github.com/anaclfortunato/Kaggle/blob/main/heart_disease_regressao_logistica/heart_disease_regressao_logistica.ipynb) contendo análise exploratória e tratamento dos dados até a previsão por meio de um modelo de machine learning baseado no algoritmo de Regressão Logística que classifica novamente se as pessoas desse dataset tem ou não doença no coração. 
 
 Notebook disponível diretamente no meu perfil no [Kaggle](https://www.kaggle.com/code/anaalucca/heart-disease-com-regressao-logistica).
+
+**Notebook classificado com medalha de bronze pelo Kaggle** ![image](https://user-images.githubusercontent.com/131414411/233750834-fb2f0f9d-cb05-474e-b0a7-0e0d9910337c.png)
