@@ -11,4 +11,4 @@ algoritmo Decision Tree Regressor e o resultado do modelo (['submission.csv'](ht
 
 Pode ser encontrado o notebook e submissão também diretamente no [Kaggle](https://www.kaggle.com/code/anaalucca/house-prices-decision-tree-regressor).
 
-**Submissão classificado com medalha pelo Kaggle** ![image](https://user-images.githubusercontent.com/131414411/233750834-fb2f0f9d-cb05-474e-b0a7-0e0d9910337c.png)
+**Notebook classificado com medalha de bronze pelo Kaggle** ![image](https://user-images.githubusercontent.com/131414411/233750834-fb2f0f9d-cb05-474e-b0a7-0e0d9910337c.png)
